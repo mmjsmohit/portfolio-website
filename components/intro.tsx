@@ -68,7 +68,7 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Mohit.</span> I'm a{" "}
         <span className="font-bold">creative-mobile developer</span> . I enjoy 
         building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">Flutter and Dart</span>.
+        <span className="underline">Next.js and Flutter</span>.
       </motion.h1>
 
       <motion.div
